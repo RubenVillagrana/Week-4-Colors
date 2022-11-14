@@ -9,5 +9,16 @@ header {
   text-align= center;
 }
 
+#product-intro {
+  background-color: orange;
+    color: white;
+    border-style: solid;
+    border-width: 2px 3px;
+    padding-top: 30px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    border-color: white;
+}
 
 
