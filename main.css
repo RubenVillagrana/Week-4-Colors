@@ -9,6 +9,11 @@ header {
   text-align= center;
 }
 
+h1 {
+  font-family: 'Rubik Bubbles', cursive;
+  font-size: 20px;
+}
+
 #product-intro {
   background-color: orange;
     color: white;
@@ -21,6 +26,4 @@ header {
     border-color: white;
 }
 
-#
-font-family: 'Rubik Bubbles', cursive;
 
